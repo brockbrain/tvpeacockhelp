@@ -7,7 +7,7 @@ Peacock TV is one of the leading streaming platforms offering a wide variety of 
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://accuratelivechat.com
+   :target: https://ptv.officialredir.com
 
 Fortunately, contacting Peacock TV support is relatively simple and can be done through various channels. This guide will walk you through the different ways to get in touch with Peacock’s customer service team and resolve any issues you might be experiencing.
 
