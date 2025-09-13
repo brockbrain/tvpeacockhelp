@@ -3,7 +3,7 @@ How to Contact Peacock TV Support?
 
 Peacock TV is one of the leading streaming platforms offering a wide variety of entertainment, including movies, TV shows, sports, and live events. Despite its user-friendly interface and great content, like all streaming services, users occasionally encounter issues. Whether you're facing technical problems, billing concerns, or simply need assistance with your account, knowing how to contact Peacock TV support is essential.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: start.png
    :alt: My Project Logo
    :width: 400px
    :align: center
